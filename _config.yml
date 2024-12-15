@@ -25,8 +25,8 @@ author:
   name             : "Jiani Wang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Worcester Polytechnic Institute"
+  location         : "Worcester, MA"
+  employer         : "Worcester Polytechnic <br> Institute"
   uri              : # URL
   email            : "jwang21@wpi.edu" 
 
