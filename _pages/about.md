@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 =====
-I'm the second year Ph.D. student at Worcester polytechnic Institute, advised by Prof. Jacob Whitehill. My research interests lies in Ai tools in education, LLM, speaker diarization, ASR, automatic classroom analysis, NLP. I'm the research assistant of the U.S. NSF National AI Institute for Student-AI Teaming (iSAT) and responsible for the project about speaker diarization in the classroom.
+I'm the second year Ph.D. student at Worcester polytechnic Institute, advised by Prof. Jacob Whitehill. My research interests lies in AI tools in education, LLM, speaker diarization, ASR, automatic classroom analysis, NLP. I'm the research assistant of the U.S. NSF National AI Institute for Student-AI Teaming (iSAT) and responsible for the project about speaker diarization in the classroom.
 
 
 
